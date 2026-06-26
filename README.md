@@ -1,139 +1,18 @@
-```markdown
-<h1 align="center">Hi 👋, I'm Priyanshu Dhami</h1>
-<h3 align="center">Computer Science Graduate | Software Developer</h3>
+# 💫 About Me:
+```markdown<br>- 🔭 Currently building backend applications, machine learning solutions, and AI-powered projects.<br><br>- 🌱 Currently learning Java Backend, System Design, Cloud Technologies, and Software Architecture.<br><br>- 👯 Open to collaborating on Backend Development, Open Source, AI/ML, and Data Engineering projects.<br><br>- 💬 Ask me about C++, Java, Python, SQL, MySQL, Data Structures & Algorithms, REST APIs, Flask, FastAPI, Machine Learning, Tableau, Git, GitHub, and Linux.**<br><br>- 📫 Reach me at **priyansudhami76@gmail.com**<br><br>- ⚡ I enjoy building real-world applications, exploring new technologies, and solving challenging programming problems.<br>```<br>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Software+Developer;Backend+Developer;Machine+Learning+Enthusiast;Always+Learning+New+Technologies" />
-</p>
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/priyansu-dhami-99804b260/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:priyanshudhami76@gmail.com) 
 
-## 👨‍💻 About Me
-
-- 💻 Computer Science Graduate
-- 🌱 Passionate about building software that solves real-world problems
-- 🚀 Interested in Backend Development, Machine Learning, Artificial Intelligence and Data-driven Applications
-- 🧠 Strong believer in learning by building projects
-- ⚡ Always exploring new technologies and improving problem-solving skills
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=priyansudhami&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=priyansudhami&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=priyansudhami&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=priyansudhami&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🚀 Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,mysql"/>
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=flask,fastapi"/>
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman"/>
-</p>
-
-### Machine Learning
-
-- Scikit-learn
-- Pandas
-- NumPy
-- LightGBM
-- CatBoost
-- Matplotlib
-- Seaborn
-
----
-
-# 🚀 Projects
-
-✔ AI Powered Applications
-
-✔ Backend APIs
-
-✔ Machine Learning Models
-
-✔ Data Analysis Projects
-
-✔ REST APIs
-
-✔ Problem Solving & DSA
-
-✔ Automation Tools
-
-✔ Academic & Personal Projects
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=PriyansuDhami&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyansuDhami&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=PriyansuDhami&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PriyansuDhami&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-## 📚 Currently Learning
-
-- Java Backend Development
-- System Design
-- Cloud Fundamentals
-- Advanced Data Structures & Algorithms
-
----
-
-## 🤝 Connect with Me
-
-<p align="left">
-
-<a href="https://github.com/PriyansuDhami">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:priyansudhami76@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-### ⭐ "Consistency beats intensity. Build. Learn. Improve."
-
-</p>
-```
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
