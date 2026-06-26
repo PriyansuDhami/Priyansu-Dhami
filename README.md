@@ -1,159 +1,18 @@
-```markdown
-<h1 align="center">Hi 👋, I'm Priyanshu Dhami</h1>
+# 💫 About Me:
+<br>- 🔭 Currently building backend applications, machine learning solutions, and AI-powered projects.<br><br>- 🌱 Currently learning Java Backend, System Design, Cloud Technologies, and Software Architecture.<br><br>- 👯 Open to collaborating on Backend Development, Open Source, AI/ML, and Software Engineering projects.<br><br>- 💬 Ask me about **C++, Java, Python, SQL, MySQL, Data Structures & Algorithms, REST APIs, Flask, FastAPI, Machine Learning, Tableau, Git, GitHub, and Linux.**<br><br>- 📫 Reach me at **priyansudhami76@gmail.com**<br><br>- ⚡ I enjoy building real-world applications, exploring new technologies, and solving challenging programming problems.<br>
 
-<h3 align="center">Computer Science Graduate | Software Developer</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Software+Developer;Backend+Developer;Machine+Learning+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/priyansu-dhami-99804b260/) 
 
----
-
-# 💫 About Me
-
-- 🔭 Currently building Backend Applications, Machine Learning Solutions, and AI-powered Projects.
-- 🌱 Currently learning Java Backend, System Design, Cloud Technologies, and Software Architecture.
-- 👯 Open to collaborating on Backend Development, Open Source, AI/ML, and Software Engineering projects.
-- 💬 Ask me about **C++, Java, Python, SQL, MySQL, Data Structures & Algorithms, REST APIs, Flask, FastAPI, Machine Learning, Tableau, Git, GitHub, and Linux.**
-- 📫 Reach me at **priyansudhami76@gmail.com**
-- ⚡ I enjoy building real-world applications, exploring new technologies, and solving challenging programming problems.
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=priyansu dhami&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=priyansu dhami&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=priyansu dhami&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=priyansu dhami&icon=0&color=0)](https://visitcount.itsvg.in)
 
-# 🌐 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/priyansu-dhami-99804b260" target="blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
-
-<a href="mailto:priyansudhami76@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
-</a>
-
-<a href="https://github.com/PriyansuDhami">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
-</a>
-</p>
-
----
-
-# 💻 Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,mysql" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=flask,fastapi" />
-</p>
-
-### Machine Learning
-
-<p>
-
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman" />
-</p>
-
----
-
-# 🚀 Featured Work
-
-- 🚀 Backend Development Projects
-- 🤖 Machine Learning Applications
-- 🧠 AI-powered Solutions
-- 📊 Data Analysis & Visualization
-- 🌐 REST APIs
-- 💡 Data Structures & Algorithms
-- 📚 Academic & Personal Projects
-
----
-
-# 📚 Currently Exploring
-
-- Java Backend Development
-- System Design
-- Cloud Fundamentals
-- Advanced Data Structures & Algorithms
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=PriyansuDhami&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyansuDhami&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=PriyansuDhami&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PriyansuDhami&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=PriyansuDhami&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=PriyansuDhami&label=Profile%20Views&color=0e75b6&style=flat"/>
-
-</p>
-
----
-
-<h3 align="center">
-⭐ Building software, learning continuously, and solving real-world problems.
-</h3>
-```
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
